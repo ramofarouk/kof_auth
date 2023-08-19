@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1002346287390",
+    "project_id": "kofauth-98ff2",
+    "storage_bucket": "kofauth-98ff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002346287390:android:a0030ea12cf047cf6f390f",
+        "android_client_info": {
+          "package_name": "com.example.kof_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002346287390-m3e6o9igj166sc62lifrf3lnib8g67ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaBW0iAWnXnBZysDZ5g3JrBtBwIUWqS68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002346287390-9tavm69psfsi4g5vbp6q1cg5pvt51iiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002346287390-d7fddgqbkh9221k18kmsf7q915vfkpo4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kofAuth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
